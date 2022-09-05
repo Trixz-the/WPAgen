@@ -9,7 +9,10 @@ LNseq = ["L", "N", "N", "N", "L", "N", "N", "N", "L", "L"]
 NNseq = ["N", "N", "N", "N", "L", "N", "N", "N", "L", "L"]
 
 # Start of program
+print("\033[94m")
 tprint("WPAgen")
+print("\033[00m")
+
 # sequence mode to choose
 mode = input("Select a valid sequence mode:\n\nletter-number sequence [type: LN]\n\nnumber-number sequence [type: NN]\n\n>>> ")
 # name of wordlist
@@ -20,6 +23,7 @@ rng = input(f"Choose a range for {name}.txt >>> ")
 
 def genSeq():
     genStr = []
+    separator = ""
     x = ""
     
     if(mode == "LN"):
@@ -38,8 +42,9 @@ def genSeq():
             genStr.append(rl)
         elif (x[i] == "N"):
             genStr.append(rn)
-    
-    return genStr
+            
+    separator = separator.join(genStr)
+    return separator
 
 
 def makeFile(fileName, fileRange):
