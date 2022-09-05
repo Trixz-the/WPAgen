@@ -6,14 +6,14 @@
 
 > WPAgen is a tool that helps with finding default WPA/WPA2 wireless keys.<br><br> Many wireless network providers use a certain algorithm for setting up default passwords for their routers. However, this algorithm can be exploited.<br><br>In the case were you know your target well, this tool can be helpful. Many people don't care about setting up more secure passwords for their routers which could be dangerous.
 <br>
-#
+---
 ## About & Use cases:
 <br>
 
 *Disclaimer: This python tool is for ethical use only \*\*\**
 > This tool is mainly used to generate default WPA/WPA2 wireless passkey word lists. Wireless companies usually have two passkey sequences.<br><br> Mainly in the form of:<br><br> - L N N N L N N N L L<br> - N N N N L N N N L L<br><br>Were `L` represents an uppercase letter and `N` represents a number.<br><br>Now, of course you will need to generate a very long word list in order to crack a handshake ; however, this tool can be very useful in the case of a weak target.
 <br>
-#
+---
 ### Usage
 <br>
 
@@ -49,7 +49,7 @@ Choose a range for {file name}.txt >>> {range in numbers. eg: 100}
 
 <br>
 
-#
+---
 
 <br>
 
