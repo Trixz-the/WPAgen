@@ -20,7 +20,7 @@
 <br>
 
 ```ps
-~$ git clone https://github.com/flakkakun/WPAgen.git
+~$ git clone https://github.com/Trixz-the/WPAgen.git
 
 ~$ cd WPAgen
 
