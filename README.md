@@ -6,7 +6,9 @@
 
 > WPAgen is a tool that helps with finding default WPA/WPA2 wireless keys.<br><br> Many wireless network providers use a certain algorithm for setting up default passwords for their routers. However, this algorithm can be exploited.<br><br>In the case were you know your target well, this tool can be helpful. Many people don't care about setting up more secure passwords for their routers which could be dangerous.
 <br>
+
 ## About & Use cases:
+
 <br>
 
 *Disclaimer: This python tool is for ethical use only \*\*\**
