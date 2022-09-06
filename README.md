@@ -9,7 +9,7 @@ __        __ ____      _
 <br>
 
 
-# WPAgen<span style="font-size: 12px; color: rgba(100, 150, 255)">BETA</span> 1.2.0
+# WPAgen<span style="font-size: 12px; color: rgba(100, 150, 255)">BETA</span> v1.2.0
 
 ## Welcome to WPAgen
 
