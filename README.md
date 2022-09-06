@@ -62,8 +62,6 @@ Choose a range for {file name}.txt >>> {range in numbers. eg: 100}
 
 <br>
 
-#
+#### \*\*\* This tool is for ethical and public use only. No one can copy or claim this code other than the creators and maintainers of this tool. \*\*\*
 
 <br>
-
-#### \*\*\* This tool is for ethical and public use only. No one can copy or claim this code other than the creators and maintainers of this tool. \*\*\*
